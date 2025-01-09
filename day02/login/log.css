@@ -1,0 +1,17 @@
+.log1 {
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+  width: 200px;
+  margin-bottom: 5px;
+  padding: 10px 20px 10px 20px;
+  font-weight: 700;
+}
+.log2 {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  width: 200px;
+  margin-bottom: 5px;
+  padding: 10px 20px 10px 20px;
+}

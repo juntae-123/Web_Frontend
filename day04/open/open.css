@@ -1,0 +1,38 @@
+.light {
+  background-image: url(light-1854093_1280.jpg);
+}
+.com {
+  background-image: url(computer-4795762_1280.jpg);
+}
+.key {
+  background-image: url(keyboard-886462_1280.jpg);
+}
+.card {
+  width: 230px;
+  height: 300px;
+  background-size: cover;
+  padding: 90px 20px;
+  border-radius: 10px;
+  display: inline-block;
+}
+.title {
+  font-weight: 600;
+  border-color: coral;
+  background-color: transparent;
+  color: coral;
+  padding: 5px 5px;
+  border-radius: 100px;
+}
+.name {
+  margin-top: 13px;
+  font-size: 20px;
+  color: white;
+  font-weight: 700;
+  line-height: 30px;
+}
+.sub {
+  margin-top: 20px;
+  color: rgb(211, 208, 208);
+  font-size: 12px;
+  font-weight: 500;
+}

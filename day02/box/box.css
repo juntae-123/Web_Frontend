@@ -1,0 +1,26 @@
+.redbox {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+.pup {
+  background-color: #deade3;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+.green {
+  background-color: #5bb98b;
+  width: 300px;
+  height: 300px;
+}
+.yellow {
+  background-color: yellow;
+  width: 70%;
+  height: 100px;
+}
+.sky {
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+}

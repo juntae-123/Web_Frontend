@@ -1,0 +1,33 @@
+.container {
+  width: 1000px;
+  height: 1000px;
+  border: 1px solid pink;
+  /* 자식들을 가로 또는 세로로 배치화 시킴*/
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+
+  /*주축 (메인축)기준으로 정렬*/
+  justify-content: center;
+  /*교차축(서브축)기준으로 정렬*/
+  align-items: center;
+}
+.box {
+  width: 100px;
+  height: 100px;
+}
+.pink {
+  background-color: pink;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.sky {
+  background-color: skyblue;
+}
+.yellow {
+  background-color: yellow;
+}

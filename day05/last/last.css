@@ -1,0 +1,57 @@
+.concard {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.icon {
+  background-color: skyblue;
+  width: 100px;
+  height: 100px;
+  border-radius: 9999px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+
+  font-size: 13px;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+.img {
+  width: 200px;
+  height: 200px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  position: absolute;
+}
+.button {
+  background-color: red;
+  color: white;
+  height: 25px;
+  border-radius: 25px;
+  border: none;
+  padding: 5px 10px;
+
+  position: relative;
+  top: 180px;
+  left: 150px;
+}
+.text {
+  font-size: 17px;
+  font-weight: 500;
+
+  position: relative;
+  right: 70px;
+  top: 230px;
+}

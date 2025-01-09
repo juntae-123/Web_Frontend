@@ -1,0 +1,48 @@
+.w1 {
+  background-image: url("winter-3974511_1280.jpg");
+}
+.w2 {
+  background-image: url("snow-7646952_1280.jpg");
+}
+.w3 {
+  background-image: url("mountain33-6086083_1280.jpg");
+}
+
+.main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.sub {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.card {
+  width: 200px;
+  height: 300px;
+  background-size: cover;
+  background-position: 50% 50%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  border-radius: 8px;
+
+  margin: 10px 15px;
+}
+.title,
+.subtitle {
+  color: skyblue;
+  font-weight: 700;
+  line-height: 20px;
+  width: 50%;
+
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}

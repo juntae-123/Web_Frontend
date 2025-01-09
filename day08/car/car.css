@@ -1,0 +1,98 @@
+@font-face {
+  font-family: kia;
+  src: url(../day08/te/KIA_Bold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "CookieRun-Regular";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/CookieRun-Regular.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  font-family: "CookieRun-Regular";
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+}
+.main {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: row;
+}
+.card {
+  width: 300px;
+  height: 500px;
+  border: 1px solid rgb(206, 202, 202);
+  border-radius: 9px;
+
+  margin: 30px;
+  box-shadow: 0px 0px 20px rgb(218, 211, 211);
+}
+.name {
+  font-size: 15px;
+  font-weight: 700;
+
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.sub {
+  font-weight: 700;
+  font-size: 17px;
+  margin-left: 10px;
+}
+img {
+  width: 100%;
+  height: 100%;
+  margin-top: 50px;
+}
+.info {
+  font-weight: 700;
+
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  padding: 0px 10px 0px 10px;
+}
+.num {
+  margin-top: 60px;
+  margin-right: 20px;
+  font-size: 20px;
+  font-weight: 700;
+
+  border-top: solid rgb(216, 210, 210) 0.5px;
+  padding: 10px;
+
+  display: flex;
+  justify-content: end;
+}
+.bt1 {
+  width: 100px;
+  height: 30px;
+  border: 1px solid rgb(211, 206, 206);
+  background-color: white;
+  color: black;
+  margin-top: 30px;
+  margin-left: 40px;
+
+  font-size: 13px;
+}
+.bt2 {
+  width: 100px;
+  height: 30px;
+
+  background-color: black;
+  color: white;
+  margin-left: 10px;
+}
+.model {
+  border-radius: 15px;
+  border: none;
+}

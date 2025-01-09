@@ -1,0 +1,103 @@
+.A1 {
+  border-radius: 13px;
+  background-color: black;
+  color: white;
+  padding: 4px 12px 4px 12px;
+  border: 1px solid gray;
+}
+.A2 {
+  border-radius: 13px;
+  background-color: white;
+  color: black;
+  border-color: gray;
+  padding: 4px 12px 4px 12px;
+  border: 1px solid;
+}
+.A3 {
+  border-radius: 13px;
+  background-color: white;
+  color: black;
+  border-color: gray;
+  padding: 4px 12px 4px 12px;
+  border: 1px solid;
+}
+.B1 {
+  color: white;
+  background-color: #35c5f1;
+  border-radius: 13px;
+  border: none;
+  padding: 5px 9px 5px 9px;
+}
+.B2 {
+  color: black;
+  background-color: #e6e6e6;
+  border-radius: 13px;
+  border: none;
+  padding: 5px 9px 5px 9px;
+}
+.B3 {
+  color: black;
+  background-color: #e6e6e6;
+  border-radius: 13px;
+  border: none;
+  padding: 5px 9px 5px 9px;
+}
+.B4 {
+  color: black;
+  background-color: #e6e6e6;
+  border-radius: 13px;
+  border: none;
+  padding: 5px 9px 5px 9px;
+}
+.B5 {
+  color: black;
+  background-color: #e6e6e6;
+  border-radius: 13px;
+  border: none;
+  padding: 5px 9px 5px 9px;
+}
+.B6 {
+  color: black;
+  background-color: #e6e6e6;
+  border-radius: 13px;
+  border: none;
+  padding: 5px 9px 5px 9px;
+}
+.B7 {
+  color: black;
+  background-color: #e6e6e6;
+  border-radius: 13px;
+  border: none;
+  padding: 5px 9px 5px 9px;
+}
+.B8 {
+  color: black;
+  background-color: #e6e6e6;
+  border-radius: 13px;
+  border: none;
+  padding: 5px 9px 5px 9px;
+}
+.C1 {
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+  padding: 8px 100px 8px 100px;
+  border: none;
+  display: block;
+}
+.C2 {
+  color: black;
+  background-color: #fee600;
+  border-radius: 4px;
+  padding: 8px 100px 8px 100px;
+  border: none;
+  display: block;
+}
+.C3 {
+  color: black;
+  background-color: white;
+  border-radius: 4px;
+  border-width: 1px;
+  padding: 8px 100px 8px 100px;
+  display: block;
+}
