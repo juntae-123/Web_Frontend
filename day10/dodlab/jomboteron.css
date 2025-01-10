@@ -1,0 +1,34 @@
+.jumbotron {
+  height: 80vh;
+  background-image: url("sky-2815020_1280.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  position: relative;
+}
+.jumbotron > .jumbotron__container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: 300px;
+}
+h1 {
+  font-size: 80px;
+  color: white;
+  margin-bottom: 30px;
+}
+p {
+  font-size: 15px;
+  font-weight: 700;
+  color: gray;
+  margin-bottom: 50px;
+}
+.jomboteron__button {
+  width: fit-content;
+  color: black;
+  padding: 5px 100px;
+  border: 1px solid black;
+}

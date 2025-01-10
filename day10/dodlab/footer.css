@@ -1,0 +1,31 @@
+footer {
+  height: 30vh;
+  background-color: gray;
+}
+.text {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgb(70, 68, 68);
+}
+ul {
+  display: flex;
+}
+ul > li {
+  padding: 0px 10px;
+}
+.info {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+
+  margin-top: 20px;
+}
+.info__main {
+  margin-bottom: 20px;
+}
