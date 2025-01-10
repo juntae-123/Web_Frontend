@@ -1,0 +1,29 @@
+header {
+  width: 100vw;
+  height: 55%;
+}
+nav {
+  height: 100%;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+h1 {
+  font-size: 40px;
+}
+ul {
+  display: flex;
+}
+li {
+  padding: 20px 40px;
+
+  transition: all 0.7;
+}
+li:hover {
+  background-color: black;
+  color: white;
+}

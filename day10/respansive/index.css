@@ -1,0 +1,20 @@
+nav > ul {
+  display: flex;
+  gap: 20px;
+}
+.list {
+  display: flex;
+  gap: 20px;
+}
+
+.burger {
+  display: none;
+}
+@media screen and (max-width: 800px) {
+  .burger {
+    display: block;
+  }
+  .list {
+    display: none;
+  }
+}
